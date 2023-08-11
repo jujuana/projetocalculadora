@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(/assets/imc-fotor-202306141732.jpg);
+    background-size: cover;
+    
+
+}
+h1{
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    margin: 0%;
+    padding: 20px;
+    height: 40px;
+    color: black; 
+}
+h2{
+    text-align: center;
+    padding-top: 200px;
+}       
+.Opções_calculo{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+a{
+    background-color:  #304d6350; 
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    border-radius:20px;
+    text-align: center;
+    width: 300px;
+    align-self: center;
+    font-size: 30px;
+  
+
+}                                                                                                                         

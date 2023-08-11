@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(/assets/calculo-fotor-2023061415175.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin: 60px;
+    color: rgb(235, 32, 191);
+    font-size: 70px;
+
+}
+.numeros{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+#n1{
+    font-size: 40px;
+    height: 45px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    width: 500px;
+    align-self: center;
+}
+#n2{
+    font-size: 40px;
+    height: 45px;
+    text-align: center;
+    margin: 5px;
+    border-radius: 10px;
+    width: 500px;
+    align-self: center;
+}
+.link_home{
+    display: flex;
+    flex-direction: column;
+}
+#button{
+    align-self: center;
+    width: 300px;
+    color: wheat;
+    background-color: rgb(167, 118, 55);
+    font-size: 40px;
+    height: 45px;
+    text-align: center;
+    margin: 5px;
+    border-radius: 20px;
+}
